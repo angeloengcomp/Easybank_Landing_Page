@@ -279,6 +279,10 @@ header .hero-image-mobile #bg-mockup-mobile {
     margin-bottom: 10px;
 }
 
+.container-article h3:hover {
+    color: var(--Lime-Green);
+}
+
 .content-article p {
     font-size: 16px;
     color: var(--Grayish-Blue);
